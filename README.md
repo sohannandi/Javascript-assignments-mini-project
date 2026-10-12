@@ -1,0 +1,1 @@
+# Javascript-assignments-mini-project
